@@ -66,6 +66,7 @@ main h1 {
 @media (min-width: 760px) {
 
   #container{
+    padding:5rem 2rem;
 
     /* shorthand background: image repeat position size*/
 
